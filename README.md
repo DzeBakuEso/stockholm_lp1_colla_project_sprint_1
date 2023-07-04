@@ -57,4 +57,4 @@ Use has_dash_symbols = df[column].str.contains('—').any() to check if the colu
 Print the result using print(f"{column}: {has_dash_symbols}").
 10.Check for Specific Symbols in data frame 2 named as df2:
 
-Create a list columns_to_check2 containing the columns to check for the '-' symbol in df2. 
+Create a list columns_to_check2 containing the columns to check for the '-' symbol in df2.
