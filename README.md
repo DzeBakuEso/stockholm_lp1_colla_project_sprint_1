@@ -1,60 +1,56 @@
 # stockholm_lp1_colla_project_sprint_1
+# Indian Startup Ecosystem Analysis
 
- stockholm collaborative project on Regression models
+## Overview
 
-Here is the detailed data cleaning process based on the provided information in data sets
+The Indian startup ecosystem has witnessed significant growth and transformation in recent years. This repository contains an analysis of the Indian startup ecosystem data, providing valuable insights into various aspects such as funding patterns, industry preferences, geographical distribution, and more. The analysis aims to uncover trends, patterns, and key factors that contribute to the success of startups in India.
 
-1. Installing Packages:
+## Dataset
 
-Install the matplotlib package using %pip install matplotlib.
-Install the seaborn package using %pip install seaborn.
-2. Importing Packages:
+The dataset used for this analysis consists of information about Indian startups, including details about their funding rounds, industries, locations, founders, and more. The dataset covers a specific time period (2018-2021) and provides a comprehensive snapshot of the Indian startup ecosystem during that period.
 
-Import the required packages: pandas, numpy, matplotlib.pyplot, and seaborn.
-Use the following import statements:
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-3. Read Data:
+## Objective
 
-Read the 'startup_funding2018.csv' file and convert it to a pandas DataFrame using pd.read_csv('startup_funding2018.csv').
-Assign it to the variable df.
-Read Data:
+The main objective of this analysis is to gain a deeper understanding of the Indian startup ecosystem and provide insights that can be useful for entrepreneurs, investors, policymakers, and researchers. By analyzing the dataset, we aim to answer important questions such as funding trends, industry preferences, geographical concentration of startups, and the impact of various factors on startup success.
 
-Read the 'startup_funding2019.csv' file and convert it to a pandas DataFrame using pd.read_csv('startup_funding2019.csv').
-Assign it to the variable df2.
-4. View Data:
+## Contents
 
-Use df.head() to view the first few rows of the DataFrame df.
-Use df2.head() to view the first few rows of the DataFrame df2.
-5. Get Information:
+This repository includes the following files and directories:
 
-Use df.info() to get information about the DataFrame df.
-Use df2.info() to get information about the DataFrame df2.
-6. Descriptive Statistics:
+- `data/`: This directory contains the dataset files used for the analysis.
+- `notebooks/`: This directory contains Jupyter notebooks with the code and detailed analysis of the Indian startup ecosystem.
+- `visualizations/`: This directory contains visualizations generated during the analysis, including charts, graphs, and plots.
+- `README.md`: This file provides an overview of the project, objectives, and contents of the repository.
+- `LICENSE`: This file contains the license information for the project.
 
-Use df.describe(include='object') to generate descriptive statistics of the DataFrame df.
-Use df2.describe(include='object') to generate descriptive statistics of the DataFrame df2.
-7. Missing Values:
+## Analysis Process
 
-Use missing_values = df.isnull().sum() to calculate the number of missing values in each column of df.
-Print missing_values to see the results.
-Use missing_values2 = df2.isnull().sum() to calculate the number of missing values in each column of df2.
-Print missing_values2 to see the results
-8. Replace Specific Values with NaN:
+The analysis is divided into several steps, including data loading, data cleaning, exploratory data analysis (EDA), and generating insights. The Jupyter notebooks in the `notebooks/` directory provide a step-by-step walkthrough of the analysis process, along with code explanations and visualizations.
 
-Use df2['Founded'].replace('Unknown', np.nan, inplace=True) to replace 'Unknown' values in the 'Founded' column of df2 with NaN.
-Use df2['HeadQuarter'].replace('Not available', np.nan, inplace=True) to replace 'Not available' values in the 'HeadQuarter' column of df2 with NaN.
-Use df2['Sector'].replace('', np.nan, inplace=True) to replace empty string values in the 'Sector' column of df2 with NaN.
-Use df2['Founders'].replace('', np.nan, inplace=True) to replace empty string values in the 'Founders' column of df2 with NaN.
-Use df2['Stage'].replace('', np.nan, inplace=True) to replace empty string values in the 'Stage' column of df2 with NaN.
-9. Check for Specific Symbols in data set one named as df:
+## How to Use
 
-Create a list columns_to_check containing the columns to check for the '-' symbol in df.
-Iterate over the columns in columns_to_check using a for loop.
-Use has_dash_symbols = df[column].str.contains('—').any() to check if the column contains the '-' symbol.
-Print the result using print(f"{column}: {has_dash_symbols}").
-10.Check for Specific Symbols in data frame 2 named as df2:
+To explore the analysis and findings, follow these steps:
 
-Create a list columns_to_check2 containing the columns to check for the '-' symbol in df2.
+1. Clone the repository to your local machine.
+2. Install the required dependencies and libraries.
+3. Open the Jupyter notebooks in the `notebooks/` directory to view the code and analysis.
+4. Execute the code cells in the notebooks to reproduce the analysis and generate visualizations.
+5. Review the visualizations and analysis to gain insights into the Indian startup ecosystem.
+
+## Contribution
+
+Contributions to this project are welcome! If you have any suggestions, improvements, or additional analysis ideas, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [Apache License](LICENSE).
+
+---
+
+By analyzing the Indian startup ecosystem data, we aim to provide valuable insights that can contribute to a better understanding of the factors influencing startup success in India. We hope this analysis will be useful for stakeholders in the Indian startup ecosystem and inspire further research and innovation.
+
+Feel free to explore the analysis and leverage the findings to make informed decisions and drive the growth of startups in India.
+
+
+Thank you for your interest in the Indian Startup Ecosystem Analysis!
+
