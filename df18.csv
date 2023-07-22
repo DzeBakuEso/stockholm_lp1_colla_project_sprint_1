@@ -93,7 +93,7 @@ Sbi Life,Insurance,Other Stages,742000000.0,Mumbai,SBI Life is one of the life i
 Studds Accessories,E-Commerce,Other Stages,14600000.0,Faridabad,Studds Accessories is a scooter accessories service provider in India,2018
 Design Cafe,Home Decor,Mid Stage,29200000.0,Bengaluru,Design  Execution Organization that delivers beautiful  innovative designs for Home Interiors in any budget,2018
 Nopaperforms Solutions Pvt. Ltd.,Edtech,Mid Stage,3980000.0,New Delhi,NoPaperForms is a marketing automation lead nurture and enrolment management platform for educational institutions,2018
-Rays Power Infra,Energy,Apps,29200000.0,Jaipur,Rays Power Infra is a leading integrated Solar Power Company,2018
+Rays Power Infra,Energy,E-Commerce,29200000.0,Jaipur,Rays Power Infra is a leading integrated Solar Power Company,2018
 Authmetrik,B2B,Other Stages,10000.0,Gurugram,SaaS B2B Security Stop account sharing Fraud Detection,2018
 Khidki,Artificial Intelligence,Early Stage,1300000.0,Bengaluru,Vernacular Social Network Focused on Town Level Content and Interactions,2018
 Letstransport,Logistics,Mid Stage,14600000.0,Bengaluru,Lets transport is a logistics solution provider,2018
@@ -105,7 +105,7 @@ Milkbasket,E-Commerce,Mid Stage,7000000.0,Haryana,Milkbasket delivers milk bread
 Nutrisattva (Proliva),Fitness,Other Stages,1300000.0,Anand,Nutrisattva is a protein innovation compan,2018
 Toppr,Edtech,Mid Stage,35000000.0,Mumbai,Topprcom is an online preparation platform for entrance exams in India,2018
 Jagaran Microfin,,Other Stages,8030000.0,Kolkata,Jagaran Microfin is a Microfinance institution which achieves a healthy amalgamation of social and financial,2018
-Vivriti Capital,Financial Services,Automotive,28500000.0,Chennai,Vivriti Capital is an online platform for institutional debt in India,2018
+Vivriti Capital,Financial Services,,28500000.0,Chennai,Vivriti Capital is an online platform for institutional debt in India,2018
 Be U Salons,Apps,Early Stage,438000.0,New Delhi,Be U is Indias first subscription based Salon Chain,2018
 Impact Guru,Creative Agency,Mid Stage,2000000.0,Mumbai,Were a Harvard incubated crowdfunding platform for nonprofits social enterprises startups and individuals,2018
 Mobikwik,Consumer Lending,Late Stage,3504000.0,Gurugram,MobiKwik is a payments backed fintech platform in India MobiKwik App offers instant loans  investment products to the 500M masses of India,2018
@@ -117,7 +117,7 @@ Oneassist,Financial Services,Other Stages,2400000.0,Mumbai,OneAssist is a protec
 Satin Creditcare Network Limited (Scnl),Banking,Other Stages,30000000.0,New Delhi,Satin is a nonbanking finance company providing individual loans to urban shopkeepers,2018
 Apac Financial Services,Finance,Other Stages,36500000.0,Mumbai,APAC Financial Services is a financial services platform,2018
 Moglix,B2B,Mid Stage,23000000.0,Noida,Moglix is a supplier of industrial tools like hand tools power tools electrical and safety equipment,2018
-Sedemac Mechatronics,Automotive,Health Care,1300000.0,Mumbai,SEDEMAC Mechatronics is technology company that distributes controlintensive products for automobiles,2018
+Sedemac Mechatronics,Automotive,Automotive,1300000.0,Mumbai,SEDEMAC Mechatronics is technology company that distributes controlintensive products for automobiles,2018
 Madguy Labs,E-Learning,Apps,150000.0,Hyderabad,MadGuy Labs is a Online Testprep Platform,2018
 Dee Dee Labs,Embedded Systems,Early Stage,1300000.0,Pune,Dee Dee Labs is design and development lab with a primary focus on the development of next generation of bionic prostheses,2018
 Fleeca,,Early Stage,1300000.0,Jaipur,FLEECA is a Tyre Care Provider company,2018
@@ -130,19 +130,19 @@ Ninjacart,Agtech,Mid Stage,36500000.0,Bengaluru,Ninjacart is a B2B agrimarketing
 Olly Smart Credit Card,Credit Cards,Early Stage,1300000.0,New Delhi,Olly is a digital credit card for Indias working masses and young people,2018
 Zestl,Software,Early Stage,1300000.0,Pune,NoCode Workflow Automation Build enterprise applications in days with AI Cognitive Automation Collaboration and more built in,2018
 Byju’S,Edtech,Other Stages,540000000.0,Bengaluru,BYJUs is an edtech company that is reinventing how students learn through its learning app,2018
-Wakefit,Manufacturing,Automotive,9490000.0,Bengaluru,Wakefitkart is a mattress manufacturing company We manufacture the best quality mattresses at affordable prices,2018
-Hero Electric,Manufacturing,Automotive,23360000.0,New Delhi,Hero Electric a 100 subsidiary of the Hero Group is a pioneer in the Indian Electric Vehicle Industry,2018
+Wakefit,Manufacturing,E-Commerce,9490000.0,Bengaluru,Wakefitkart is a mattress manufacturing company We manufacture the best quality mattresses at affordable prices,2018
+Hero Electric,Manufacturing,,23360000.0,New Delhi,Hero Electric a 100 subsidiary of the Hero Group is a pioneer in the Indian Electric Vehicle Industry,2018
 Pentation Analytics,Information Services,Early Stage,1300000.0,Mumbai,Pentation as an Insurtech enables insurers and intermediaries with our Insurance Analytics Suite an Insurance specific AIML Software Suite,2018
 Perkfinance,Consumer Lending,Early Stage,900000.0,Bengaluru,PerkFinance partners with employers to provide affordable loans to their employees at no cost to the company,2018
 Roposo,Internet,Mid Stage,10000000.0,Gurugram,Roposo  TV by the People is a unique social media platform where people express visually with homemade videos and photos,2018
 Plum Goodness,Beauty,Mid Stage,1300000.0,Thane,Plum Haircare Is SiliconeFree  SulphateFree Designed For Damaged  DandruffFree Hair,2018
 Drstore,Hospital,Early Stage,1300000.0,Mumbai,Drstore is a exclusive e commerce platform,2018
-Wow Venue,Events,E-Commerce,1500000.0,Mumbai,Wow Venue is an online platform,2018
+Wow Venue,Events,Health Care,1500000.0,Mumbai,Wow Venue is an online platform,2018
 Chizel,3D Printing,Early Stage,1300000.0,Pune,Chizel is a worlds most advanced cloud platform for ondemand manufacturing in 3D Printing and CNC Machining,2018
 Oto Capital,Automotive,Early Stage,730000.0,Mumbai,OTO Capital is a platform that allows you to own a car faster than ever,2018
 Boodmo,Automotive,Early Stage,1022000.0,Gurugram,boodmocom  large online marketplace for auto parts in India,2018
 Khabri,Apps,Early Stage,1300000.0,Haryana,Khabri is a digital audio platform for content in vernacular,2018
-Mynewcar.In,Automotive,Automotive,1000000.0,Gurugram,MyNewCarin offers new cars at best price with great deals Book a new car online or request a doorstep test drive,2018
+Mynewcar.In,Automotive,Financial Services,1000000.0,Gurugram,MyNewCarin offers new cars at best price with great deals Book a new car online or request a doorstep test drive,2018
 Halaplay Technologies,Digital Entertainment,Mid Stage,5000000.0,Bengaluru,A daily fantasy sports platform,2018
 Planetspark,E-Learning,Early Stage,233600.0,Gurugram,PlanetSpark is an afterschool Maths and English learning program for pre teen kids between Grades 2nd to 7th,2018
 Wheelsemi,,Mid Stage,14000000.0,Pune,WheelsEMI is the brand name of NBFC WheelsEMI Pvt Ltd,2018
@@ -152,18 +152,18 @@ Quikr,Classifieds,Other Stages,8030000.0,Bengaluru,Quikr is a free classifieds a
 Tabono,Sports,Early Stage,1300000.0,Gurugram,Tabono is a one stop environment for all your fitness solution,2018
 Learnapp,Banking,Early Stage,292000.0,Noida,Learnappco  Video courses  live classes in investing trading banking and finance,2018
 Shopkirana,E-Commerce,,2000000.0,Indore,Shopkirana connects brands and traditional retailers with the help of technology and supply chain innovation,2018
-Fric Bergen,,,1300000.0,Alwar,Fric Bergen is a leader in the specialty food industry,2018
+Fric Bergen,,Financial Services,1300000.0,Alwar,Fric Bergen is a leader in the specialty food industry,2018
 Articbot,Artificial Intelligence,Other Stages,17520.0,Kannur,Articbot is a conversational AI platform for automated customer support and lead generation,2018
 Buildsupply,Enterprise Resource Planning (Erp),Mid Stage,3650000.0,Gurugram,Indias most advanced ERP system for the real estate,2018
 Fusion Microfinance,Banking,Late Stage,75920000.0,New Delhi,Fusion Microfinance Pvt Ltd is an NBFC registered with RBI,2018
 Any Time Doctor,Software,Other Stages,1300000.0,Chennai,Anytime Doctor is a Software company,2018
 Go Payments,Information Services,Other Stages,1300000.0,Mumbai,Go Payments was founded with the mission of assisting consumers with performing a whole host of financial services at their doorstep,2018
 Guiddoo World,Audio,Early Stage,800000.0,Mumbai,We build InDestination Experiences,2018
-Ion Energy,Energy,,1041000.0,Mumbai,A stealth startup building a layer of infrastructure for highly efficient energy storage systems,2018
+Ion Energy,Energy,E-Commerce,1041000.0,Mumbai,A stealth startup building a layer of infrastructure for highly efficient energy storage systems,2018
 Unotag,Artificial Intelligence,Other Stages,100000.0,Bengaluru,SaaS to verify counterfeit,2018
 Civilcops,Government,Other Stages,100000.0,Gurugram,GovTech,2018
 Rockmetric,Information Technology,Other Stages,1300000.0,Mumbai,Smarter analytics to understand how each customer uses your product Drive growth in conversion retention and engagement,2018
-Classworks India,Education,E-Commerce,1460.0,Chennai,Saas Web App Mobile App School Education,2018
+Classworks India,Education,,1460.0,Chennai,Saas Web App Mobile App School Education,2018
 Snapmint,Consumer Lending,Early Stage,1300000.0,Mumbai,Snapmint facilitates simplified fairlypriced and hasslefree EMI options without a Credit Card,2018
 Artbandhu,Digital Media,Other Stages,15000.0,Bengaluru,Ai platform for Art and Creative Community,2018
 Survaider,Business Intelligence,Early Stage,500000.0,Bengaluru,Stethoscope for customer feedback ,2018
@@ -177,7 +177,7 @@ Deftouch,,Early Stage,1300000.0,Bengaluru,Deftouch is a mobile game development 
 Doodhwala,Food Delivery,Early Stage,2200000.0,Bengaluru,Doodhwala is an online milk delivery startup that offers over 70 varieties of milk along with a plan based on clients requirement,2018
 Dronahq,Mobile,Other Stages,500000.0,Mumbai,DronaHQ is an enterprise mobile engagement platform,2018
 Fastfox,Rental,Mid Stage,1460000.0,Gurugram,FastFox Market Network for Home Rentals India,2018
-Buyforexonline,Travel,,2000000.0,Bengaluru,BuyForexOnlinecom is Indias first completely online provider for buying Foreign Exchange,2018
+Buyforexonline,Travel,E-Commerce,2000000.0,Bengaluru,BuyForexOnlinecom is Indias first completely online provider for buying Foreign Exchange,2018
 Colive.In,Consumer,Early Stage,1800000.0,Bengaluru,A technology powered network of Branded Serviced Homes conveniently located near educational institutions  workplaces,2018
 Agricxlab Private Limited,B2B,Early Stage,500000.0,Thane,Online marketplace where farmers and traders can sell their produce to B2B buyers,2018
 Corefactors,,Early Stage,1300000.0,Bengaluru,Corefactors is a leading campaign management business communication and analytics company,2018
@@ -347,7 +347,7 @@ The Social Hook,Marketing,Early Stage,1300000.0,Bengaluru,Fast growing Influence
 Freightbro,Apps,Early Stage,1300000.0,Mumbai,Software for the newage freight,2018
 Finwego,,Early Stage,1300000.0,Chennai,Finwego partners with Small and Medium Businesses in India to offer convenient and responsible credit to their employees,2018
 Cricnwin,Digital Entertainment,Early Stage,1300000.0,Gurugram,Cricnwin is a Gurugram  based Fan Engagement Platform,2018
-Wicked Ride Adventure Services Private Limited,Automotive,Financial Services,10000000.0,Bengaluru,PeertoPeer motor vehicles sharing,2018
+Wicked Ride Adventure Services Private Limited,Automotive,,10000000.0,Bengaluru,PeertoPeer motor vehicles sharing,2018
 Career Anna,Commercial,Early Stage,584000.0,Bengaluru,Indias Go to Career Commerce Portal,2018
 Eruditus Executive Education,Continuing Education,Mid Stage,40000000.0,Mumbai,Eruditus promoted by Alumni of INSEAD and other top business schools delivers high quality executive education programmes,2018
 Gaia Smart Cities,Smart Cities,Early Stage,1300000.0,Mumbai,Gaia Smart Cities is an early leader in the rapidlyemerging Internet of Things IoT marketplace,2018
@@ -389,7 +389,7 @@ Hoi Foods,Food And Beverage,Early Stage,525600.0,Gurugram,Indias first hotel ded
 Perpule,Apps,Mid Stage,4964000.0,Bengaluru,Perpule is a selfcheckout product for retail outlets to enhance the shopping experience of the customers,2018
 Royal Sundaram General Insurance Co. Limited,Health Insurance,Other Stages,210000000.0,Kalpakkam,Royal Sundaram provides comprehensive insurance plans and innovative insurance solutions to individuals families and businesses,2018
 Cleansecar,Automotive,Other Stages,511000.0,Bengaluru,CleanseCar is a company provides Washing and Repair Services,2018
-Driveu,Rental,Apps,1022000.0,Bengaluru,DriveU is a convenient and a quick way of getting on demand drivers for consumers and businesses,2018
+Driveu,Rental,E-Commerce,1022000.0,Bengaluru,DriveU is a convenient and a quick way of getting on demand drivers for consumers and businesses,2018
 Spinny,E-Commerce,Mid Stage,11000000.0,Gurugram,Used cars marketplace in India Ushering new era of transparency and convenience,2018
 Asset Reconstruction Company (India) Ltd.,Financial Services,Other Stages,1300000.0,Mumbai,Asset Reconstruction Company India Ltd operates as a asset reconstruction company,2018
 Med365 Healthcare,Health Diagnostics,Early Stage,730000.0,Jaipur,Wellness Specialised Testing Healthcare at Home,2018
@@ -404,12 +404,12 @@ Farmtaaza,Agriculture,Mid Stage,1300000.0,Bengaluru,Farm Taaza provides expert a
 Vizzbee,Artificial Intelligence,Other Stages,20000.0,Bhopal,Autonomous Drone Solutions for last mile delivery as well as search and rescue,2018
 Bigphi Technologies Pvt. Ltd.,Fashion,Other Stages,900000.0,Bengaluru,BIGPHI technologies is the Indias first technologically advanced apparel and wearable company,2018
 Mobycy,Fitness,Other Stages,1300000.0,Gurugram,Indias 1st Dockless Bicycle Sharing App,2018
-Traveo Soft Pvt. Ltd.,Mobile,Automotive,17520.0,Bengaluru,AI based Business Travel  Expense management,2018
+Traveo Soft Pvt. Ltd.,Mobile,Health Care,17520.0,Bengaluru,AI based Business Travel  Expense management,2018
 Em Personal Care,Cosmetics,Early Stage,1300000.0,Worli,Em Personal Care is a Cosmetic products manufacturing Company,2018
-Lucideus,Consulting,Automotive,5000000.0,New Delhi,Lucideus is a cybersecurity company that offers its customers with consultancy training and solutions to counteract cyberattacks,2018
+Lucideus,Consulting,E-Commerce,5000000.0,New Delhi,Lucideus is a cybersecurity company that offers its customers with consultancy training and solutions to counteract cyberattacks,2018
 Eupheus Learning,E-Learning,Early Stage,1300000.0,New Delhi,Eupheus Learning offers a seamless integrated learning solution for the K12 market in India,2018
 Gamingmonk,Esports,Mid Stage,584000.0,New Delhi,GamingMonk is an eSports gaming company based out of New Delhi India,2018
-Sukkhi Jewellery,Fashion,Apps,7446000.0,Mumbai,Sukkhi Jewellery is a Contemporary fashion jewellery brand,2018
+Sukkhi Jewellery,Fashion,,7446000.0,Mumbai,Sukkhi Jewellery is a Contemporary fashion jewellery brand,2018
 Indwealth,Financial Services,Early Stage,32120000.0,Gurugram,INDwealth is an Artificial Intelligence AI powered wealth management company,2018
 Medikabazaar,B2B,Mid Stage,5000000.0,Mumbai,Indias largest medical and surgical supplies marketplace,2018
 Nira,Credit,Early Stage,1000000.0,Bengaluru,NIRA promotes financial inclusion by creating simple transparent products that empower individuals to live a life of choice and freedom,2018
@@ -417,7 +417,7 @@ Duroflex Pvt. Ltd.,Consumer Goods,Other Stages,22000000.0,Alleppey,Duroflex Pvt 
 Clensta,Biotechnology,Early Stage,1300000.0,New Delhi,A biotechnology startup was incorporated to improve the National Hygiene condition whilst addressing the aspect of water conservation,2018
 Jetbrain Robotics,Health Care,Early Stage,70000.0,Gurugram,Jetbrain Robotics is Hong Kong  Gurgaon based company building advanced robotic transportation solutions for multi speciality hospitals,2018
 Medimetry,Health Care,Early Stage,1300000.0,Haryana,MediMetry is an online platform where patients can consult specialists doctors online  from anywhere at anytime,2018
-Healthkart,E-Commerce,Financial Services,10000000.0,Gurugram,The one stop shop for health fitness  beauty,2018
+Healthkart,E-Commerce,Health Care,10000000.0,Gurugram,The one stop shop for health fitness  beauty,2018
 Indiabulls Ventures,Financial Services,Other Stages,224723200.0,Mumbai,Indiabulls Ventures Limited is one of Indias leading capital market companies providing securities and derivative broking services,2018
 Vistara,Aerospace,Other Stages,292000000.0,Haryana,Vistara is a joint venture of Tata Sons Limited and Singapore Airlines Limited SIA,2018
 Cleartax,Accounting,Mid Stage,58400000.0,New Delhi,ClearTax India helps individuals prepare and efile their Income Tax Return online,2018
@@ -425,7 +425,7 @@ Shuttl,Apps,Other Stages,1000000.0,Gurugram,Shuttl provides an appbased office s
 Guruq,Reading Apps,Early Stage,365000.0,New Delhi,A one of its kind digital integrated platform connecting tutors and students,2018
 Azure Power,Energy,Other Stages,185000000.0,New Delhi,Azure Power produces and distributes solar power to commercial government and utility customers in India,2018
 Cube,Banking,Mid Stage,2044000.0,Mumbai,Cube is consumer banking focused fintech company,2018
-Rahi Care,Health Care,Apps,1300000.0,Chandigarh,RAHI Care is a Health Care company,2018
+Rahi Care,Health Care,Financial Services,1300000.0,Chandigarh,RAHI Care is a Health Care company,2018
 Mynvax,Biotechnology,Other Stages,1300000.0,Bengaluru,Mynvax is a biotech Company,2018
 Loans4Sme,Financial Services,Early Stage,1300000.0,Mumbai,Loans4SME is an alternative lending platform,2018
 Upcyclerslab,Apps,Early Stage,1300000.0,Mumbai,UpCyclersLab is a startup that makes sustainabilitybased learning tools for children above the age of five,2018
@@ -439,9 +439,9 @@ Worxogo,Information Technology,Mid Stage,2409000.0,Bengaluru,worxogos is a pione
 Vivish Technologies (Mygate),Apps,Mid Stage,9490000.0,Bengaluru,Indias leading mobile based security management solution ,2018
 Singularity Dynamics,Artificial Intelligence,Early Stage,1300000.0,Bengaluru,Singularity Dynamics is a Chipdesign testing startup,2018
 Virtual Metalstreet(Metalstreet),B2B,Other Stages,700000.0,Bengaluru,Virtual MetalStreetMetalstreet is a B2B marketplace for steel trading in India,2018
-Veritas Finance,Financial Services,Financial Services,30000000.0,Guindy,Veritas Finance has been promoted with a primary purpose of meeting the working capital and business credit requirements of the small bus,2018
+Veritas Finance,Financial Services,,30000000.0,Guindy,Veritas Finance has been promoted with a primary purpose of meeting the working capital and business credit requirements of the small bus,2018
 Manjushree Technopack,Packaging Services,Other Stages,1300000.0,Bengaluru,Manjushree Technopack is a Rigid plastics packaging convertor in India and South Asia,2018
-Gozefo,Computer,,3066000.0,Bengaluru,Startup working on a white space in the eCommerce industry,2018
+Gozefo,Computer,E-Commerce,3066000.0,Bengaluru,Startup working on a white space in the eCommerce industry,2018
 Zomato,Food Delivery,Other Stages,210000000.0,Gurugram,Zomato is a search app offering detailed information for restaurants as well as online food delivery,2018
 Innov8 Coworking,Collaboration,Early Stage,4000000.0,New Delhi,Innov8 is a Y Combinator backed company that offers coworking and shared office spaces,2018
 Revfin,Accounting,Early Stage,1300000.0,New Delhi,RevFin is a digital lending company,2018
@@ -455,30 +455,30 @@ Innerchef,Cooking,,1760000.0,Gurugram,InnerChef is an online food discovery and 
 Livquik,Fintech,Other Stages,2700000.0,Mumbai,LivQuik was incorporated with the vision to simplify payments for merchants and consumers in an increasingly digital world,2018
 Disprz,E-Learning,Other Stages,400000.0,Chennai,Disprz is a oneofitskind knowledgetech startup that strives to make people knowledgeable productive and smarter at what they do,2018
 9Stacks,Online Games,Mid Stage,4088000.0,New Delhi,Online gaming startup,2018
-Origo,,,11680000.0,Gurugram,Origo Commodities a complete postharvest management services for agricultural commodities is the fastest growing company in its sector,2018
+Origo,,Health Care,11680000.0,Gurugram,Origo Commodities a complete postharvest management services for agricultural commodities is the fastest growing company in its sector,2018
 Yourownroom,Online Portals,Early Stage,750000.0,Bengaluru,Good quality strategically located homes closer to work for millennials,2018
 Vahdam Teas,E-Commerce,Mid Stage,2500000.0,New Delhi,Vahdam Teas is a vertically integrated onlinefirst tea brand that sources premium garden fresh teas direct from over 150 tea plantations,2018
 Spoofin,Music,,1300000.0,New Delhi,A social networking app that lets you create and view Spoofs of your favourite videos,2018
 Strom Motors,Automotive,Other Stages,1300000.0,Mumbai,Strom Motors is a smart urban mobility Company,2018
 Pharmeasy,Health Care,Mid Stage,80000000.0,Mumbai,PharmEasy  Indias largest healthcare delivery platform,2018
 Licious,Delivery Service,Mid Stage,25000000.0,Bengaluru,Licious is an online meat and fish ordering startup that solves existing problem of finding safe delectable trustworthy fresh meat,2018
-Stanza Living,Hospitality,Health Care,10658000.0,New Delhi,Stanza Living is a coliving platform created for students moving to a new place,2018
+Stanza Living,Hospitality,E-Commerce,10658000.0,New Delhi,Stanza Living is a coliving platform created for students moving to a new place,2018
 Docturnal,Biotechnology,Early Stage,1300000.0,Hyderabad,Docturnal an online platform enables individuals to find information and diagnostic services related to diabetes cancer and more,2018
 Bounce (Metro Bikes),Autonomous Vehicles,Other Stages,3000000.0,Bengaluru,Bounce formerly Metro Bikes is an urban mobility solution that makes daily commute stressfree timesaving reliable and convenient,2018
 Technology 9 Labs (T9L),Information Technology,Other Stages,1300000.0,New Delhi,Technology 9 Labs is an Information Technology and Services company,2018
 Goals101,Financial Services,Early Stage,3500000.0,New Delhi,Goals101 is a one of the fastest growing bigdata platforms,2018
-Satya Microcapital,Finance,Financial Services,5840000.0,New Delhi,New Delhibased nonbanking financial company,2018
+Satya Microcapital,Finance,Apps,5840000.0,New Delhi,New Delhibased nonbanking financial company,2018
 Ummeed Housing Finance Private Limited,Finance,Mid Stage,8760000.0,Haryana,Ummeed Housing Finance Private Limited,2018
 Stockedge,Analytics,Early Stage,1100000.0,Kolkata,StockEdge is a unique platform which is 100 focused on research and analytics,2018
-Sequretek,,Health Care,3700000.0,Mumbai,Sequretek is a cyber security startup,2018
+Sequretek,,,3700000.0,Mumbai,Sequretek is a cyber security startup,2018
 Avenues Payments,,Other Stages,1300000.0,Mumbai,Avenues Payments is an IT solutions provider for the remittancemoney transfer and forex industries,2018
-Qbera,Finance,,2044000.0,Bengaluru,Qbera is a managed marketplace for unsecured personal loans,2018
+Qbera,Finance,E-Commerce,2044000.0,Bengaluru,Qbera is a managed marketplace for unsecured personal loans,2018
 Urban Ladder,E-Commerce,Other Stages,5600000.0,Bengaluru,Urban Ladder is a Bangalorebased online furniture company,2018
 Planet11,,Other Stages,3796000.0,Bengaluru,Planet11 is backed by SK Planet which is a part of the SK Group  one of the largest conglomerates in South Korea,2018
 Dailyninja,Apps,Mid Stage,1300000.0,Bengaluru,Daily Ninja a mobile app that delivers daily needs on a subscription model,2018
 Iba Halal Care,,Mid Stage,2190000.0,Ahmedabad,Iba Halal Care is a cosmetics brand company,2018
 Knocksense,News,Early Stage,1300000.0,Lucknow,Knocksense is a fast growing lifestyle website,2018
-Togedr,,Health Care,1300000.0,Gurugram,Togedr is an activity discovery  booking platform,2018
+Togedr,,E-Commerce,1300000.0,Gurugram,Togedr is an activity discovery  booking platform,2018
 Parkwheels,Industrial,Early Stage,175200.0,Haryana,Parkwheels aims at solving the big bad  unsexy parking problems of India,2018
 Sharechat,Internet,Mid Stage,99230000.0,Bengaluru,ShareChat is a social networking and regional content platform for the fast growing Internet users in India,2018
 Cyclops Medtech,Health Care,Early Stage,1000000.0,Bengaluru,Medtech startup working on clinical and wearable diagnostic and rehab products for neuro vestibular disorders using eye tracking technology,2018
@@ -486,15 +486,15 @@ Livspace,E-Commerce,Mid Stage,70000000.0,Bengaluru,Livspace is the new online sh
 Newsbytes,Apps,Early Stage,1000000.0,Gurugram,NewsBytes provides your everyday news in a contextual timeline to reduce information overload,2018
 Leena Ai,Artificial Intelligence,Early Stage,2000000.0,Gurugram,Leena is smart AI powered HR companion dedicated towards engaging employees,2018
 Max Healthcare,Health Care,Other Stages,1300000.0,New Delhi,Max Healthcare is one of the leading chain of hospitals in India,2018
-Gobolt,Logistics,Health Care,5840000.0,New Delhi,Delhibased logistics technology,2018
+Gobolt,Logistics,Apps,5840000.0,New Delhi,Delhibased logistics technology,2018
 Gogaga,Dating,Other Stages,40000.0,Bengaluru,GoGaga is a new age dating app that has removed the mindless swiping on strangers and connects users through their network and find matches,2018
 Mate Labs,Artificial Intelligence,Early Stage,550000.0,Bengaluru,Mate Labs is a machine learning solutions platform for beginners,2018
 Furlenco,Consumer,Mid Stage,1300000.0,Bengaluru,Furlenco is a Bangalorebased company that offers a home furniture subscription program,2018
-Ola,Apps,Automotive,50000000.0,Kormangala,Ola is a mobile app that brings together cab drivers and customers using technology to make transportation hasslefree in India,2018
+Ola,Apps,,50000000.0,Kormangala,Ola is a mobile app that brings together cab drivers and customers using technology to make transportation hasslefree in India,2018
 Docprime,Health Care,Other Stages,50000000.0,Haryana,DocPrime offers a onestop healthcare solution right at the comfort of patients homes,2018
 Clp India Pvt. Ltd.,Energy,Other Stages,365000000.0,Mumbai,CLP India Pvt Ltd is a foreign investor in the Indian power sector,2018
 Xplorabox,E-Commerce,Early Stage,1300000.0,Noida,Xplorabox is as an educational activity box subscription startup aiming to revolutionize the early education industry,2018
-Myra,Apps,,127750.0,Bengaluru,Myra is a unique solution of technology and operations that makes buying medicines fast and efficient,2018
+Myra,Apps,Apps,127750.0,Bengaluru,Myra is a unique solution of technology and operations that makes buying medicines fast and efficient,2018
 Vokal,Internet,Mid Stage,1500000.0,Bengaluru,Indias Largest PeertoPeer Knowledge Sharing Platform in Indian Languages,2018
 Kissht,Credit,Mid Stage,30000000.0,Mumbai,Kissht is a financial technology platform that enables instant seamless credit for consumers to make purchases at digital points of sales,2018
 Upwards Fintech,Banking,Mid Stage,5000000.0,Mumbai,Upwards Fintech financial company,2018
@@ -502,7 +502,7 @@ Bon(Bonfleet Solutions),Financial Services,Early Stage,1138800.0,Pune,Bon a Pune
 Mamaearth,E-Commerce,Mid Stage,4000000.0,Gurugram,Mamaearth is an online retailer specializing in baby and toddler products,2018
 Babychakra,Child Care,Mid Stage,1300000.0,Mumbai,BabyChakra is Indias largest  most loved platform to discover the right maternity and childcare,2018
 Belstar Investment And Finance Private Limited,Financial Services,Financial Services,28000000.0,Chennai,Belstar Investment and Finance Private Limited is a provider of scalable microfinance services to entrepreneurs,2018
-Naaptol,E-Commerce,Financial Services,15000000.0,Mumbai,Koku Gamer is an online platform that offers gaming related news editorials reviews previews and other content,2018
+Naaptol,E-Commerce,,15000000.0,Mumbai,Koku Gamer is an online platform that offers gaming related news editorials reviews previews and other content,2018
 Moonshine Meadery,Food And Beverage,Early Stage,1300000.0,Pune,Moonshine Meadery is a first craft meadery,2018
 Verzeo,E-Learning,Mid Stage,5000000.0,Bengaluru,Verzeo is anAIfocussed edtech startup,2018
 Haazri,Food And Beverage,Early Stage,182500.0,Mumbai,Haazri is a tea and snack quick service restaurant startup,2018
@@ -516,7 +516,7 @@ Chaayos,Food And Beverage,Mid Stage,11826000.0,New Delhi,Chaayos was born in Nov
 Heelium,Fitness,Early Stage,1300000.0,Pune,Heelium is an athletic footwear and wearable startup with primary focus on sports safety and sustainability,2018
 Lt Foods,Food And Beverage,Other Stages,20440000.0,New Delhi,LT Foods believe that nature will continue to nurture us until we as a species continue to breathe and live,2018
 Multibashi,E-Learning,Early Stage,146000.0,Bengaluru,Free language learning platform,2018
-Cleardekho,Eyewear,Automotive,1300000.0,Ghaziabad,Uttar Pradesh based online eyewear marketplace,2018
+Cleardekho,Eyewear,Financial Services,1300000.0,Ghaziabad,Uttar Pradesh based online eyewear marketplace,2018
 Dailyhunt,Information Technology,Late Stage,6000000.0,Bengaluru,NewsHunt is a Bangalore based eBooks company,2018
 Slicepay,Fintech,Mid Stage,14900000.0,Bengaluru,SlicePay is an AI based instant credit app for youngsters in India,2018
 Udaan,B2B,Mid Stage,225000000.0,Bengaluru,Udaan is a B2B trade platform designed specifically for small and medium businesses in India,2018
